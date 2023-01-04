@@ -3,7 +3,7 @@
 # If the Integer is a multiple of both 3 and 5, print "FizzBuzz". 
 # If the Integer is not a multiple of either, print the Integer itself.
 
-integer_or_string = 0
+integer_or_string = 7
 
 if integer_or_string == 0 
     puts integer_or_string
